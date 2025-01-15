@@ -1,0 +1,16 @@
+{
+  "name": "production",
+  "version": "1.0.0",
+  "description": "this is the standerd formate for coding in any projects ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "and",
+    "backend"
+  ],
+  "author": "prakash suthar",
+  "license": "ISC"
+}
